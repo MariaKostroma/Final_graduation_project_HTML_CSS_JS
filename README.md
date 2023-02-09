@@ -5,8 +5,9 @@ Final_graduation_project_HTML_CSS_JS
 На работу выделяется 24 часа.
 Что необходимо сделать?
 1. Открыть макет сайта
-https://www.figma.com/file/PxV85sdIzWj0CZ2kqg0hsT/Analytics-%E2%80%94-
-Landing-Page-Design-(Community)?node-id=0%3A1
+
+https://www.figma.com/file/PxV85sdIzWj0CZ2kqg0hsT/Analytics-%E2%80%94-Landing-Page-Design-(Community)?node-id=0%3A1
+
 2. В соответствии с макетом необходимо:
 1. Добавить все блоки по сайту (Использовать семантическую структуру)
 2. Добавить все наполнение блоков (html контент)
